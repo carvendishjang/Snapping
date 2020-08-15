@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "164377477239",
+    "firebase_url": "https://snappingoreo.firebaseio.com",
+    "project_id": "snappingoreo",
+    "storage_bucket": "snappingoreo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164377477239:android:dd0560e223a474eacec672",
+        "android_client_info": {
+          "package_name": "io.github.carvendishjang.snapping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164377477239-btekf45h9s8g173f3oq2q4jc2lhpc1n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-8yLlom0HCQXps6S6rkpLf6O7M9ixf1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164377477239-btekf45h9s8g173f3oq2q4jc2lhpc1n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
